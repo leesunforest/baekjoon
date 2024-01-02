@@ -8,3 +8,4 @@ int main(void)
     printf ("%.9f\n", (double) a / b); 
     return (0);
 }
+
