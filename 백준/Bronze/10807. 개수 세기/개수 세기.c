@@ -3,12 +3,11 @@
 int main()
 {
     int n,v;
-    int i,j;
     int sum = 0;
     scanf("%d", &n);
     int a[n];
 
-    i = 0;
+    int i = 0;
     while (i < n)
     {
         scanf("%d", &a[i]);
