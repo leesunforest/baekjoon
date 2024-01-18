@@ -15,7 +15,7 @@ int main()
     }
     scanf("%d", &v);
 
-    j = 0;
+    int j = 0;
     while (j < n)
     {
         if(v == a[j])
